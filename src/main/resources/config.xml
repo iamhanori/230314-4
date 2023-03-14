@@ -11,5 +11,5 @@
 	                    http://www.springframework.org/schema/aop/spring-aop.xsd">
 
     <bean id="baseball" class="kr.hs.study.beans.BaseBall"/>
-
+    <bean id="soccer" class="kr.hs.study.beans.Soccer"/>
 </beans>
