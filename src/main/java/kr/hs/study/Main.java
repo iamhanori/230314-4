@@ -5,9 +5,6 @@ import kr.hs.study.beans.Soccer;
 import kr.hs.study.beans.Sports;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.nio.channels.spi.SelectorProvider;
-import java.sql.SQLOutput;
-
 public class Main {
     public static void main(String[] args) {
         ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("config.xml");
